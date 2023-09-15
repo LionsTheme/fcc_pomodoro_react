@@ -2,7 +2,7 @@
 
 This project is part of the Free Code Camp's front-end track. Created with create-react-app. See the full [create-react-app guide](https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md)
 
-![home page.](https://raw.githubusercontent.com/LionsTheme/fcc_calculator_react/main/public/images/capture-fcc-pomodoro-react.png "home page.")
+![home page.](https://raw.githubusercontent.com/LionsTheme/fcc_pomodoro_react/main/public/images/capture-fcc-pomodoro-react.png "home page.")
 
 ## Try it
 

@@ -11,7 +11,6 @@ You can find the demo link [here](https://fcc-calculator-react.vercel.app/)
 ## Technologies
 
 - React
-- React Hooks
 - TypeScript
 - HTML
 - CSS
